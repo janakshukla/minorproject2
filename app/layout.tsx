@@ -7,7 +7,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata = {
-  title: "Data Structure Visualizer",
+  title: "Dristicon-the data structure visualizer",
   description: "Interactive visualizations of common data structures",
   icons: {
     icon: "/favicon.ico",
