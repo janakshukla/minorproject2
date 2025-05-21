@@ -961,7 +961,7 @@ const BinaryTreeVisualizer = () => {
 export default function DataStructureVisualizer() {
   return (
     <div className="container mx-auto py-8 px-4">
-      <h1 className="text-3xl font-bold mb-6 text-center">Data Structure Visualizer</h1>
+      <h1 className="text-3xl font-bold mb-6 text-center">Dristicon-The Data Structure Visualizer</h1>
       <p className="text-center mb-8 text-muted-foreground">
         Visualize and interact with common data structures to understand how they work
       </p>
